@@ -54,7 +54,82 @@ export default {
                 .addRoleOption(option =>
                     option.setName('role5')
                         .setDescription('Fifth role to add')
-                        .setRequired(false)
+                       .setRequired(false)
+               )
+                .addRoleOption(option =>
+                    option.setName('role6')
+                        .setDescription('Six role to add')
+                        .setRequired(false)               
+               )
+                .addRoleOption(option =>
+                    option.setName('role7')
+                        .setDescription('Seven role to add')
+                        .setRequired(false)               
+                )
+                .addRoleOption(option =>
+                    option.setName('role8')
+                        .setDescription('Seven role to add')
+                        .setRequired(false)               
+                 )
+                .addRoleOption(option =>
+                    option.setName('role9')
+                        .setDescription('Nine role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role10')
+                        .setDescription('ten role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role11')
+                        .setDescription('eleven role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role12')
+                        .setDescription('twelve role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role13')
+                        .setDescription('thirten role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role14')
+                        .setDescription('Fourten role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role15')
+                        .setDescription('Fiften role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role16')
+                        .setDescription('Sixsten role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role17')
+                        .setDescription('Seventen role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role18')
+                        .setDescription('eighten role to add')
+                        .setRequired(false)  
+                 )
+                .addRoleOption(option =>
+                    option.setName('role19')
+                        .setDescription('Ninten role to add')
+                        .setRequired(false)  
+                )
+                .addRoleOption(option =>
+                    option.setName('role20')
+                        .setDescription('tewenty role to add')
+                        .setRequired(false)  
                 )
         )
         .addSubcommand(subcommand =>
